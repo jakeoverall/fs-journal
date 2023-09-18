@@ -21,5 +21,15 @@ function init() {
 }
 
 
+// FIXME
+// TODO
+// REVIEW
+// STUB
+// SECTION
+// NOTE -- HINT YOu are going to want this come friday 👀
+
+
+
+
 
 init()
